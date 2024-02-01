@@ -1,2 +1,4 @@
 test/
 tmc/
+.DS_Store
+.tmcproject.yml

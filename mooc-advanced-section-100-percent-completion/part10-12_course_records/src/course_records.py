@@ -1,1 +1,0 @@
-# tee ratkaisusi tänne

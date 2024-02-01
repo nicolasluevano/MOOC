@@ -1,1 +1,0 @@
-# TEE RATKAISUSI TÄHÄN:
